@@ -1,0 +1,102 @@
+body {
+	height:100%;
+	font-size:15px;
+	overflow:auto;
+}
+
+#wrapper {
+	min-height: 100%;
+	height:auto;
+	padding:0;
+	margin-top:42px;
+
+}
+
+#page-content-wrapper {
+	width: 100%;
+	height:100%;
+}
+
+.navbar {
+	height:42px !important;
+	min-height:42px !important;
+	width:100%;
+	margin-bottom:0;
+	background-color:#4c4c4c;
+}
+.navbar-brand {
+	height:42px;
+	padding:10px 15px 0px 15px;
+	font-size:13px;
+	color:#ffffff;
+}
+
+.navbar-inner img {
+	width:24px;
+	height:24px;
+	margin:8px 0 0 8px;
+}
+
+.thumbnail {
+	margin:0;
+	padding:0;
+	border:none;
+	border-radius:0;
+}
+
+.menu-cell {
+	padding:0;
+}
+
+.menu-cell img {
+}
+
+/* Page formatting */
+div.page {
+	padding:15px 15px 15px 12px;
+}
+
+div.page-segment {
+	background-color:#ffffff;
+	border:1px solid gray;
+	border-radius: 5px 5px 5px 5px;
+	margin-bottom:15px;
+}
+
+h4.page-subtitle {
+	border-bottom:1px solid gray;
+	margin:0;
+	padding:10px 8px 10px 8px;
+	font-weight:normal;
+	color:#ffffff;
+	background-color:#707070;
+}
+
+div.page-text {
+	padding:10px 8px 10px 8px;
+}
+
+.page_prava_ovlastuvanja {
+	background-color:#F83C20;
+}
+
+.page_legitimiranje {
+	background-color:#19A5EE;
+}
+
+.page_priveduvanje {
+	background-color:#FFD000;
+}
+
+.page_pregledi_pretresi {
+	background-color:#FD3D63;
+}
+
+.page_zakon_pravda {
+	background-color:#82D609;
+}
+
+.page_za_proektot {
+	background-color:#FB7A30;
+}
+
